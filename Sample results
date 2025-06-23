@@ -1,11 +1,11 @@
- UAV identified 5 high-confidence cells:
-  1. Cell (13, 12), Total Reward (all visits): 23.91
-  2. Cell (12, 11), Total Reward (all visits): 19.97
-  3. Cell (12, 13), Total Reward (all visits): 18.77
-  4. Cell (13, 14), Total Reward (all visits): 18.74
-  5. Cell (12, 14), Total Reward (all visits): 16.61
+[Fire cell: (12,12) unknown to the agent. Mission begins at 78h before the ignition] 
 
- Search stopped at time: 3512 min
-Time remaining to fire: 1168 min (19.5 hrs)
+UAV identified 5 high-confidence cells:
+  1. Cell (12, 12), Total Reward (all visits): 40.43
+  2. Cell (12, 13), Total Reward (all visits): 38.86
+  3. Cell (12, 11), Total Reward (all visits): 30.12
+  4. Cell (13, 13), Total Reward (all visits): 26.15
+  5. Cell (13, 12), Total Reward (all visits): 22.16
 
-check out UAV path model_eval.png file
+ Search stopped at time: 3306 min
+Time remaining to fire: 1374 min (22.9 hrs)
